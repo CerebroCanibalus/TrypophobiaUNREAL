@@ -2,7 +2,7 @@ Este es  el repositorio de la nueva versión en Unreal del concepto de Trypophob
 GDD: https://docs.google.com/document/d/17lelkRlBEfgcFM9YdV9jt4_2a9-2uONuG2uIsnM_5xI/edit?usp=sharing
 
 Desarrolladores: Cerebrito, Mayonesa y Chewbacan
-Versión de Unreal: 5.2
+Versión de Unreal: 5.4.4
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⣶⣶⣶⡶⠟⠋⠉⠁⠀⠀⠀⠀⠉⠙⠛⢷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣀⣴⡾⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠿⢷⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
