@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cret4hgtq1stp"
+path="res://.godot/imported/USSR anthem at 1924 Funeral of Vladimir Lenin.mp3-859166e18025f78beccb5975bcd36dd7.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/music/USSR anthem at 1924 Funeral of Vladimir Lenin.mp3"
+dest_files=["res://.godot/imported/USSR anthem at 1924 Funeral of Vladimir Lenin.mp3-859166e18025f78beccb5975bcd36dd7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

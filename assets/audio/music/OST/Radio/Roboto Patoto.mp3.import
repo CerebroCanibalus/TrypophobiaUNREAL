@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cng8l585221e6"
+path="res://.godot/imported/Roboto Patoto.mp3-0232e43d1bb7d250ec388aa2217ceb97.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/music/OST/Radio/Roboto Patoto.mp3"
+dest_files=["res://.godot/imported/Roboto Patoto.mp3-0232e43d1bb7d250ec388aa2217ceb97.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

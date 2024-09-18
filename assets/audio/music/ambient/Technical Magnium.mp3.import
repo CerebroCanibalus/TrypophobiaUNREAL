@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://8a6iedft1j0o"
+path="res://.godot/imported/Technical Magnium.mp3-4fb7393bb337a126774e568d285b7546.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/music/ambient/Technical Magnium.mp3"
+dest_files=["res://.godot/imported/Technical Magnium.mp3-4fb7393bb337a126774e568d285b7546.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
